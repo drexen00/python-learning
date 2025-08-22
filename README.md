@@ -1,9 +1,6 @@
 # python-learning
 My Python learning journey — from basics to projects.  Includes notes, practice scripts, and mini-projects.
-#  Python Learning
 
-This repository is my journey of learning Python — from basics to real projects.  
-It contains code examples, notes, and mini-projects by topic:
 
 ##  Structure
 - **01_basics/** → variables, conditions, loops, functions  
